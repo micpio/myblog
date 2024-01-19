@@ -1,0 +1,39 @@
+title = "Faces of Angels"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
+languageCode = "en-us"
+theme = "ananke"
+resourceDir = "./resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 2 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+[languages]
+  [languages.en]
+    title = "Faces"
+    weight = 1
+    contentDir = "content/en"
+    
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  
+  author = "Mick Piontek"
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+
+  font_color = ""
+  
+  background_color_class = "bg-gray" 
+
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  
+  recent_posts_number = 1
+
+
