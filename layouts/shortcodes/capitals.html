@@ -1,0 +1,10 @@
+{{range .Site.Data.states}}
+          <table class="w3-gray  w3-table-all">
+               <tr>
+                    <tr><th>State</th><th class="w3-right-align">Capital</th></tr><br>
+
+                    <td>{{.name}}</td><td class="w3-right-align">{{.capital}}</td>
+               </tr>
+          </table>
+          
+          {{end}}

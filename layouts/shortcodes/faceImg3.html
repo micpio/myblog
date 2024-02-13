@@ -1,0 +1,5 @@
+
+{{ $image := resources.Get "images/3mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+
+<!-- image must reside in assets -->

@@ -1,0 +1,15 @@
+
+{{ $image := resources.Get "faces/1.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+
+    {{ $image := resources.Get "faces/2.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+    {{ $image := resources.Get "faces/3.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+    {{ $image := resources.Get "faces/4.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+    {{ $image := resources.Get "faces/5.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+
+
+<!-- image must reside in assets -->
