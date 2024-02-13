@@ -1,5 +1,5 @@
 
-{{ $image := resources.Get "images/2mo.jpeg" }}
-    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+{{ $image := resources.Get "sitewise/1.jpg" }}
+    <img src="{{ ($image.Resize "75x").RelPermalink }}">
 
 <!-- image must reside in assets -->
