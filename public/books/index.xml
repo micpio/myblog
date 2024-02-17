@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books on Reflections</title>
+    <title>Books Read on Reflections</title>
     <link>http://example.org/books/</link>
-    <description>Recent content in Books on Reflections</description>
+    <description>Recent content in Books Read on Reflections</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jan 2024 08:15:24 -0600</lastBuildDate><atom:link href="http://example.org/books/index.xml" rel="self" type="application/rss+xml" />

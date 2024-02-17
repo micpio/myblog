@@ -20,9 +20,6 @@
     <loc>http://example.org/books/booksread/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/capitals/</loc>
-    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
-  </url><url>
     <loc>http://example.org/cartoons/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
@@ -30,6 +27,9 @@
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>http://example.org/writings/orange/</loc>
+    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/capitals/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>http://example.org/capitals/statecapitals-/</loc>
