@@ -6,4 +6,3 @@ author: 'Mick J Piontek'
 phrase: 'humor is contagious!'
 ---
 Writings and Observations
-
