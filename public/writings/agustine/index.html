@@ -3,6 +3,8 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <meta http-equiv='cache-control' content='no-cache'> 
+     <meta http-equiv='pragma' content='no-cache'>
      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> 
      <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2021.css">
@@ -19,7 +21,7 @@
      </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
      <div class="w3-panel   w3-text-gray w3-light-blue w3-border">
     
-    <a href="/myblog" class="w3-bar-item w3-button" style="text-shadow:1px 1px 0 #444">home</a>
+    <a href="/" class="w3-bar-item w3-button" style="text-shadow:1px 1px 0 #444">home</a>
 
 
      <div class="w3-container w3-sand w3-text-brown ">
@@ -109,36 +111,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-1ead95c3">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-1ead95c3">
-        <div class="pdf-loading" id="pdf-loading-1ead95c3"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-79472c2b">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-79472c2b">
+        <div class="pdf-loading" id="pdf-loading-79472c2b"></div>
     </div>
     <div id="overlayText">
-      <a href="/pdfs/agustine.pdf" aria-label="Download" download>
+      <a href="/myblog/pdfs/agustine.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-1ead95c3"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-79472c2b"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-1ead95c3">
-    <button id="pdf-prev-1ead95c3">Previous</button>
-    <button id="pdf-next-1ead95c3">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-79472c2b">
+    <button id="pdf-prev-79472c2b">Previous</button>
+    <button id="pdf-next-79472c2b">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-1ead95c3"></span> / <span class="pdf-pagecount" id="pdf-pagecount-1ead95c3"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-79472c2b"></span> / <span class="pdf-pagecount" id="pdf-pagecount-79472c2b"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-1ead95c3" href="/pdfs/agustine.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-79472c2b" href="/myblog/pdfs/agustine.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-1ead95c3" href="/pdfs/agustine.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-79472c2b" href="/myblog/pdfs/agustine.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '\/pdfs\/agustine.pdf';
+    var url = '\/myblog\/pdfs\/agustine.pdf';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -157,10 +159,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-1ead95c3" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-1ead95c3'),
+        canvas = document.getElementById('pdf-canvas-79472c2b'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-1ead95c3"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-1ead95c3');
+        paginator = document.getElementById("pdf-paginator-79472c2b"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-79472c2b');
 
 
     
@@ -198,7 +200,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-1ead95c3" href="
       });
 
       
-      document.getElementById('pdf-pagenum-1ead95c3').textContent = num;
+      document.getElementById('pdf-pagenum-79472c2b').textContent = num;
     }
 
     
@@ -242,7 +244,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-1ead95c3" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-1ead95c3').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-79472c2b').addEventListener('click', onPrevPage);
 
     
 
@@ -253,14 +255,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-1ead95c3" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-1ead95c3').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-79472c2b').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-1ead95c3').textContent = numPages;
+      document.getElementById('pdf-pagecount-79472c2b').textContent = numPages;
 
       
       if(pageNum > numPages) {

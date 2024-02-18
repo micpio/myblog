@@ -3,6 +3,8 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <meta http-equiv='cache-control' content='no-cache'> 
+     <meta http-equiv='pragma' content='no-cache'>
      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> 
      <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2021.css">
@@ -19,7 +21,7 @@
      </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
      <div class="w3-panel   w3-text-gray w3-light-blue w3-border">
     
-    <a href="/myblog" class="w3-bar-item w3-button" style="text-shadow:1px 1px 0 #444">home</a>
+    <a href="/" class="w3-bar-item w3-button" style="text-shadow:1px 1px 0 #444">home</a>
 
 
      <div class="w3-container w3-sand w3-text-brown ">
@@ -110,36 +112,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-df2b43a0">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-df2b43a0">
-        <div class="pdf-loading" id="pdf-loading-df2b43a0"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-68d24681">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-68d24681">
+        <div class="pdf-loading" id="pdf-loading-68d24681"></div>
     </div>
     <div id="overlayText">
-      <a href="/pdfs/duel.pdf" aria-label="Download" download>
+      <a href="/myblog/pdfs/duel.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-df2b43a0"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-68d24681"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-df2b43a0">
-    <button id="pdf-prev-df2b43a0">Previous</button>
-    <button id="pdf-next-df2b43a0">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-68d24681">
+    <button id="pdf-prev-68d24681">Previous</button>
+    <button id="pdf-next-68d24681">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-df2b43a0"></span> / <span class="pdf-pagecount" id="pdf-pagecount-df2b43a0"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-68d24681"></span> / <span class="pdf-pagecount" id="pdf-pagecount-68d24681"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-df2b43a0" href="/pdfs/duel.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-68d24681" href="/myblog/pdfs/duel.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-df2b43a0" href="/pdfs/duel.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-68d24681" href="/myblog/pdfs/duel.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '\/pdfs\/duel.pdf';
+    var url = '\/myblog\/pdfs\/duel.pdf';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -158,10 +160,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-df2b43a0" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-df2b43a0'),
+        canvas = document.getElementById('pdf-canvas-68d24681'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-df2b43a0"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-df2b43a0');
+        paginator = document.getElementById("pdf-paginator-68d24681"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-68d24681');
 
 
     
@@ -199,7 +201,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-df2b43a0" href="
       });
 
       
-      document.getElementById('pdf-pagenum-df2b43a0').textContent = num;
+      document.getElementById('pdf-pagenum-68d24681').textContent = num;
     }
 
     
@@ -243,7 +245,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-df2b43a0" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-df2b43a0').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-68d24681').addEventListener('click', onPrevPage);
 
     
 
@@ -254,14 +256,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-df2b43a0" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-df2b43a0').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-68d24681').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-df2b43a0').textContent = numPages;
+      document.getElementById('pdf-pagecount-68d24681').textContent = numPages;
 
       
       if(pageNum > numPages) {
