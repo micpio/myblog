@@ -6,4 +6,4 @@ author: 'Mick J Piontek'
 phrase: 'humor is contagious!'
 ---
 <!-- The Duel  -->
-{{< embed-pdf url=" /pdfs/duel.pdf" >}}
+{{< embed-pdf url=" /myblog/pdfs/duel.pdf" >}}
