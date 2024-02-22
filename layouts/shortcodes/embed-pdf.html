@@ -110,11 +110,11 @@
     <span>
       <span class="pdf-pagenum" id="pdf-pagenum-{{ substr (.Get "url" | md5) 0 8 }}"></span> / <span class="pdf-pagecount" id="pdf-pagecount-{{ substr (.Get "url" | md5) 0 8 }}"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">[pdf]</a>
-</div>
+    <a class="pdf-source" id="pdf-source-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">read now</a>
+<!-- </div> -->
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">read now</a>.
 </noscript>
 
 <script type="text/javascript">
@@ -189,7 +189,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get 
      */
     function showContent() {
       loadingWrapper.style.display = 'none';
-      canvas.style.display = 'block';
+      canvas.style.display = 'inline-block';
     }
 
     /**

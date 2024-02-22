@@ -7,8 +7,7 @@ phrase: ''
 ---
 {{<cartImg1>}}
 {{<cartImg2>}}
-{{<cartImg3>}}
-{{<cartImg4>}}
+ 
 
 
 

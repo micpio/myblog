@@ -1,5 +1,18 @@
 
-{{ $image := resources.Get "images/3mo.jpeg" }}
+    
+    
+    {{ $image := resources.Get "images/1mo.jpeg" }}
     <img src="{{ ($image.Resize "150x").RelPermalink }}">
+    {{ $image := resources.Get "images/2mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+    {{ $image := resources.Get "images/3mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+<!--     {{ $image := resources.Get "images/4mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+ -->    {{ $image := resources.Get "images/5mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+<!--     {{ $image := resources.Get "images/6mo.jpeg" }}
+    <img src="{{ ($image.Resize "150x").RelPermalink }}">
+ -->
 
 <!-- image must reside in assets -->

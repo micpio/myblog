@@ -44,6 +44,16 @@
     </item>
     
     <item>
+      <title>Modigliani</title>
+      <link>http://example.org/modig/</link>
+      <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
+      
+      <guid>http://example.org/modig/</guid>
+      <description> Inspirational paintings by Amadeus Modigliani
+  </description>
+    </item>
+    
+    <item>
       <title>orange</title>
       <link>http://example.org/writings/orange/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
