@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://micpio.github.io/myblog/</loc>
     <lastmod>2024-02-09T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/writings/reflections/</loc>
+    <loc>https://micpio.github.io/myblog/writings/reflections/</loc>
     <lastmod>2024-02-09T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/writings/agustine/</loc>
+    <loc>https://micpio.github.io/myblog/writings/agustine/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/writings/</loc>
+    <loc>https://micpio.github.io/myblog/writings/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/books/</loc>
+    <loc>https://micpio.github.io/myblog/books/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/books/booksread/</loc>
+    <loc>https://micpio.github.io/myblog/books/booksread/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/cartoons/</loc>
+    <loc>https://micpio.github.io/myblog/cartoons/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/faces/</loc>
+    <loc>https://micpio.github.io/myblog/faces/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/modig/</loc>
+    <loc>https://micpio.github.io/myblog/modig/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/writings/orange/</loc>
+    <loc>https://micpio.github.io/myblog/writings/orange/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/capitals/</loc>
+    <loc>https://micpio.github.io/myblog/capitals/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/capitals/statecapitals-/</loc>
+    <loc>https://micpio.github.io/myblog/capitals/statecapitals-/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/writings/duel/</loc>
+    <loc>https://micpio.github.io/myblog/writings/duel/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://micpio.github.io/myblog/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://micpio.github.io/myblog/tags/</loc>
   </url>
 </urlset>

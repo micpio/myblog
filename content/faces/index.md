@@ -8,4 +8,4 @@ phrase: 'Lovely'
 ---
 Asian faces
  ---
-{{< faceImg1 >}}
+{{< faceImg2 >}}

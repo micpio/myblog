@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>States and Capitals on Reflections</title>
-    <link>http://example.org/capitals/</link>
+    <link>https://micpio.github.io/myblog/capitals/</link>
     <description>Recent content in States and Capitals on Reflections</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 08:15:24 -0600</lastBuildDate><atom:link href="http://example.org/capitals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 08:15:24 -0600</lastBuildDate><atom:link href="https://micpio.github.io/myblog/capitals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>States and Capitals</title>
-      <link>http://example.org/capitals/statecapitals-/</link>
+      <link>https://micpio.github.io/myblog/capitals/statecapitals-/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
       
-      <guid>http://example.org/capitals/statecapitals-/</guid>
+      <guid>https://micpio.github.io/myblog/capitals/statecapitals-/</guid>
       <description>U.S. States and Capitals  StateCapital
 AlaskaJuneau    StateCapital
 AlabamaMontgomery    StateCapital

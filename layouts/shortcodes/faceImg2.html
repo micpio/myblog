@@ -1,5 +1,18 @@
 
-{{ $image := resources.Get "logo/4.jpeg" }}
-    <img src="{{ ($image.Resize "75x").RelPermalink }}">
+{{ $image := resources.Get "z/1.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/2.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/3.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/4.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/5.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/6.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+    {{ $image := resources.Get "z/7.jpeg" }}
+    <img src="{{ ($image.Resize "100x").RelPermalink }}">
+
 
 <!-- image must reside in assets -->

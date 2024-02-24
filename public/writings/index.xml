@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assorted Writings on Reflections</title>
-    <link>http://example.org/writings/</link>
+    <link>https://micpio.github.io/myblog/writings/</link>
     <description>Recent content in Assorted Writings on Reflections</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 08:15:24 -0600</lastBuildDate><atom:link href="http://example.org/writings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 08:15:24 -0600</lastBuildDate><atom:link href="https://micpio.github.io/myblog/writings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections</title>
-      <link>http://example.org/writings/reflections/</link>
+      <link>https://micpio.github.io/myblog/writings/reflections/</link>
       <pubDate>Fri, 09 Feb 2024 08:15:24 -0600</pubDate>
       
-      <guid>http://example.org/writings/reflections/</guid>
+      <guid>https://micpio.github.io/myblog/writings/reflections/</guid>
       <description>coming soon!</description>
     </item>
     
     <item>
       <title>Agustine</title>
-      <link>http://example.org/writings/agustine/</link>
+      <link>https://micpio.github.io/myblog/writings/agustine/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
       
-      <guid>http://example.org/writings/agustine/</guid>
+      <guid>https://micpio.github.io/myblog/writings/agustine/</guid>
       <description>#embed-pdf-container { position: relative; width: 100%; height: auto; min-height: 20vh; } .pdf-canvas { border: 1px solid rgb(143, 42, 42); direction: ltr; width: 100%; height: auto; display: none; } #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } .pdf-loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } .pdf-loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } #overlayText { word-wrap: break-word; display: grid; justify-content: end; } #overlayText a { position: relative; top: 10px; right: 4px; color: #000; margin: auto; background-color: #eeeeee; padding: 0.</description>
     </item>
     
     <item>
       <title>orange</title>
-      <link>http://example.org/writings/orange/</link>
+      <link>https://micpio.github.io/myblog/writings/orange/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
       
-      <guid>http://example.org/writings/orange/</guid>
+      <guid>https://micpio.github.io/myblog/writings/orange/</guid>
       <description>#embed-pdf-container { position: relative; width: 100%; height: auto; min-height: 20vh; } .pdf-canvas { border: 1px solid rgb(143, 42, 42); direction: ltr; width: 100%; height: auto; display: none; } #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } .pdf-loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } .pdf-loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } #overlayText { word-wrap: break-word; display: grid; justify-content: end; } #overlayText a { position: relative; top: 10px; right: 4px; color: #000; margin: auto; background-color: #eeeeee; padding: 0.</description>
     </item>
     
     <item>
       <title>The Duel</title>
-      <link>http://example.org/writings/duel/</link>
+      <link>https://micpio.github.io/myblog/writings/duel/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
       
-      <guid>http://example.org/writings/duel/</guid>
+      <guid>https://micpio.github.io/myblog/writings/duel/</guid>
       <description>#embed-pdf-container { position: relative; width: 100%; height: auto; min-height: 20vh; } .pdf-canvas { border: 1px solid rgb(143, 42, 42); direction: ltr; width: 100%; height: auto; display: none; } #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } .pdf-loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } .pdf-loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } #overlayText { word-wrap: break-word; display: grid; justify-content: end; } #overlayText a { position: relative; top: 10px; right: 4px; color: #000; margin: auto; background-color: #eeeeee; padding: 0.</description>
     </item>
     
