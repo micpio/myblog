@@ -8,10 +8,17 @@
     <loc>https://micpio.github.io/myblog/writings/reflections/</loc>
     <lastmod>2024-02-09T08:15:24-06:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://micpio.github.io/myblog/writings/agustine/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>https://micpio.github.io/myblog/writings/</loc>
+=======
+    <loc>http://example.org/writings/</loc>
+    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/writings/balancers/</loc>
+>>>>>>> 60adb45812c2c5407fe7144c01d7165115ce8e1f
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>https://micpio.github.io/myblog/books/</loc>

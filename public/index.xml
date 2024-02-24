@@ -17,11 +17,19 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Agustine</title>
       <link>https://micpio.github.io/myblog/writings/agustine/</link>
       <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
       
       <guid>https://micpio.github.io/myblog/writings/agustine/</guid>
+=======
+      <title>Balancers</title>
+      <link>http://example.org/writings/balancers/</link>
+      <pubDate>Thu, 25 Jan 2024 08:15:24 -0600</pubDate>
+      
+      <guid>http://example.org/writings/balancers/</guid>
+>>>>>>> 60adb45812c2c5407fe7144c01d7165115ce8e1f
       <description>#embed-pdf-container { position: relative; width: 100%; height: auto; min-height: 20vh; } .pdf-canvas { border: 1px solid rgb(143, 42, 42); direction: ltr; width: 100%; height: auto; display: none; } #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } .pdf-loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } .pdf-loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } #overlayText { word-wrap: break-word; display: grid; justify-content: end; } #overlayText a { position: relative; top: 10px; right: 4px; color: #000; margin: auto; background-color: #eeeeee; padding: 0.</description>
     </item>
     
