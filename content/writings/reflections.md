@@ -6,5 +6,5 @@ draft: false
 author: 'Mick J Piontek'
 tag: 'satire'
 ---
-{{< faceImg2 >}}
+<!-- {{< faceImg2 >}} -->
 **coming soon!**
