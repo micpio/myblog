@@ -5,5 +5,5 @@ draft: false
 author: 'Mick J Piontek'
 phrase: 'humor is contagious!'
 ---
-<!-- The Duel  -->
-{{< embed-pdf url=" /myblog/pdfs/duel.pdf" >}}
+The Duel 
+<!-- {{< embed-pdf url=" /myblog/pdfs/duel.pdf" >}} -->
