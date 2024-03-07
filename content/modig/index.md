@@ -7,7 +7,7 @@ phrase: ''
 ---
 >Inspirational paintings by Amadeus Modigliani
 ---
-{{< faceImg3 >}}
+{{< faceImgModig >}}
   
 
 

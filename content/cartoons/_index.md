@@ -6,7 +6,7 @@ author: 'Mick J Piontek'
 phrase: ''
 ---
 {{<cartImg1>}}
-{{<cartImg2>}}
+
  
 
 
