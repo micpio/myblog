@@ -1,3 +1,3 @@
-{{ range resources.Match "cartoons/*.jpeg" }}
+{{ range resources.Match "myblog/assets/cartoons/*.jpeg" }}
     <img src="{{ (.Resize "300x").RelPermalink }}">
 {{ end }}
