@@ -1,0 +1,31 @@
+<style>
+
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      padding: 8px;
+      background-color:rgb(176, 174, 174);
+      text-decoration: none;
+    }
+    
+    </style>
+
+
+<ul>
+{{- range site.Menus.main }}
+   
+<li><h4><a href="{{ .URL}}">{{.Title}}</a></h4></li>
+
+{{- end }}
+</ul>

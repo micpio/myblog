@@ -1,3 +1,5 @@
+<div class = "w3-panel w3-gray">
 {{ range resources.Match "cartoons/*.jpeg" }}
     <img src="{{ (.Resize "300x").RelPermalink }}">
 {{ end }}
+</div>

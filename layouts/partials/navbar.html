@@ -1,3 +1,9 @@
+
+{{- range site.Menus.main }}
+<div class="w3-bar  w3-light-blue">
+<a href="{{ .URL }}"class="w3-bar-item w3-button">{{.Name}} </a>
+</div>
+{{- end }}
 <div class="w3-panel   w3-text-gray w3-light-blue w3-border">
     <a href="/writings" class="w3-bar-item w3-button ">writings</a>
     <a href="/cartoons" class="w3-bar-item w3-button"> cartoons</a>

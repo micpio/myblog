@@ -1,0 +1,3 @@
+{{ range resources.Match "bird/*.JPG" }}
+    <img src="{{ (.Resize "450x").RelPermalink }}">
+{{ end }}

@@ -2,19 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://micpio.github.io/myblog/</loc>
-    <lastmod>2024-02-09T08:15:24-06:00</lastmod>
-  </url><url>
-    <loc>https://micpio.github.io/myblog/writings/reflections/</loc>
-    <lastmod>2024-02-09T08:15:24-06:00</lastmod>
-  </url><url>
     <loc>https://micpio.github.io/myblog/writings/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>https://micpio.github.io/myblog/books/</loc>
-    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
-  </url><url>
-    <loc>https://micpio.github.io/myblog/books/booksread/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>https://micpio.github.io/myblog/cartoons/</loc>
@@ -23,16 +14,18 @@
     <loc>https://micpio.github.io/myblog/faces/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
+    <loc>https://micpio.github.io/myblog/firebird/</loc>
+    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
+  </url><url>
     <loc>https://micpio.github.io/myblog/modig/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
     <loc>https://micpio.github.io/myblog/capitals/</loc>
     <lastmod>2024-01-25T08:15:24-06:00</lastmod>
   </url><url>
-    <loc>https://micpio.github.io/myblog/capitals/statecapitals-/</loc>
-    <lastmod>2024-01-25T08:15:24-06:00</lastmod>
-  </url><url>
     <loc>https://micpio.github.io/myblog/categories/</loc>
+  </url><url>
+    <loc>https://micpio.github.io/myblog/</loc>
   </url><url>
     <loc>https://micpio.github.io/myblog/tags/</loc>
   </url>
