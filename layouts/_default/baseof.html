@@ -13,7 +13,7 @@
       <title>Document</title>
 </head>
 <body>
-     <div class ="w3-container w3-blue-grey">
+     <div class ="w3-container w3-blue-gray">
      <div class ="w3-left w3-text-white w3-wide" style="text-shadow:1px 1px 0 #444">
           <h1>{{.Title}}</h1>
           {{partial "mainMenue"}}
@@ -32,7 +32,7 @@
            
      </div>
            
-          <!-- <div style="color:grey; font-size:16px;">{{ dateFormat " 2006" .Date }}</div> -->
+          <div style="color:grey; font-size:16px;">{{ dateFormat " 2006" .Date }}</div>
           <div >{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div>
           <div >{{if .Params.imgmo}} {{.Params.Imgmo}}ok{{end}}</div>
           <div style=" font-size:16px;">{{if                                                                                                                       .Params.phrase}} {{.Params.Phrase}}{{end}}</div>

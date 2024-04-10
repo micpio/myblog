@@ -8,5 +8,4 @@ name: 'Home'
 url: '/'
 weight: 10
 ---
-
-content here
+Have Fun!!!!!
