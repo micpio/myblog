@@ -6,8 +6,8 @@ author: 'Mick J Piontek'
 phrase: ''
 menu: "main"
 ---
+{{< facelogo >}}
 {{< faceImg1 >}}
-
  
 
 

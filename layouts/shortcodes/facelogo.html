@@ -1,3 +1,3 @@
-{{ range resources.Match "faces/*.jpeg" }}
+{{ range resources.Match "close/*.png" }}
     <img src="{{ (.Resize "200x").RelPermalink }}">
 {{ end }}
