@@ -6,6 +6,6 @@ author: 'Mick J Piontek'
 phrase: 'humor is contagious!'
 menu: "main"
 ---
+{{<writelogo>}}
 Writings and Observations
 comming soon
-![Ideal writeing cabin](/static/images/writehouse.jpeg)

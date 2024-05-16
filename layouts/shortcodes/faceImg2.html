@@ -1,3 +1,7 @@
 {{ range resources.Match "close/*.jpeg" }}
     <img src="{{ (.Resize "200x").RelPermalink }}">
-{{ end }}
+    {{ end }}
+
+    {{ range resources.Match "close/*.jpg" }}
+    <img src="{{ (.Resize "200x").RelPermalink }}">
+    {{ end }}
