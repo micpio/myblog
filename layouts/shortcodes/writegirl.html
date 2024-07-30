@@ -1,0 +1,3 @@
+{{ range resources.Match "writing/wiggle.gif" }}
+<img src="{{ (.Resize "200x").RelPermalink }}">
+{{ end }}

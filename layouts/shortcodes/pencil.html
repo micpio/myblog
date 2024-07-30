@@ -1,3 +1,9 @@
-{{ range resources.Match "pencil/*.JPG" }}
-    <img src="{{ (.Resize "450x").RelPermalink }}">
+{{ range resources.Match "pencil/*.jpeg" }}
+    <img src="{{ (.Resize "300x").RelPermalink }}">
+{{ end }}
+{{ range resources.Match "pencil/*.jpg" }}
+    <img src="{{ (.Resize "300x").RelPermalink }}">
+{{ end }}
+{{ range resources.Match "pencil/*.png" }}
+    <img src="{{ (.Resize "300x").RelPermalink }}">
 {{ end }}
